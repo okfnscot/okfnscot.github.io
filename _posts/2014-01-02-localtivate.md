@@ -3,11 +3,12 @@ title: "localtivate"
 bg: blue     
 color: white
 fa-icon: tree
-style: center
 ---
 
 # Localtivate
 
-This is a quick overview of our recent projects developed on GitHub.
+[Localtivate](http://okfnscot.github.io/localtivate) is an initiative to help
+people discover  pockets of green space in the city, put them on a map and
+think about ways of using them to help the community. We aim to
+**locate** and **cultivate**!
 
-There is more information about us at the main [Open Knowledge Scotland website](http://scot.okfn.org).
